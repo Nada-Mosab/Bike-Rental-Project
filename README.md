@@ -1,6 +1,9 @@
 # Bike-Rental-Project
 first regression project
 
+## dataset URL:
+https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
+
 # Comprehensive Exploratory Data Analysis (EDA) Report
 **Dataset:** Seoul Bike Sharing Dataset  
 **Focus:** Data Distributions, Feature Analysis, and Target Relationships (`Rented Bike Count`)
